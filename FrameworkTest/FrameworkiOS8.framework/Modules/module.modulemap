@@ -1,0 +1,6 @@
+framework module FrameworkiOS8 {
+  umbrella header "FrameworkiOS8.h"
+
+  export *
+  module * { export * }
+}
